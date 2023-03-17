@@ -1,6 +1,7 @@
 Attribute VB_Name = "modGetSystemErrorMessageText"
 Option Explicit
 Option Compare Text
+'Just adding this single line of commit to have a conflict.
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ' GetSystemErrorMessageText
 ' -------------------------
