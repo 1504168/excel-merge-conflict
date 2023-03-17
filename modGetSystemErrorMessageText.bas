@@ -1,7 +1,7 @@
 Attribute VB_Name = "modGetSystemErrorMessageText"
 Option Explicit
 Option Compare Text
-'Just adding this single line second time conflict.
+'Just adding this single line seocdn time conflict.
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ' GetSystemErrorMessageText
 ' -------------------------
